@@ -26,7 +26,7 @@ async function invokeAction({ action, id, name, email, phone }) {
       return allContacts;
 
     case "get":
-      const contact = (await getContactById(id)) || null;
+      const contact = await getContactById(id);
       console.log(contact);
       return contact;
 

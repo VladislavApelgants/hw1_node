@@ -8,7 +8,7 @@ https://prnt.sc/qoyuJC22k3zX
 # Получаем контакт по id - выводим в консоль объект контакта или null, если контакта с таким id не существует.
 
 node index.js --action get --id 05olLMgyVQdWRwgKfg5J6
-https://prnt.sc/h12BtPaubAnx
+https://prnt.sc/pk00YKbcJkTk
 
 # Добавляем контакт и выводим в консоль созданный контакт
 
